@@ -2,7 +2,13 @@ const express = require("express");
 const app = express();
 const prueba = require("./prueba.json")
 
-app.get('/updates/au.json', function (req, res) {
+app.get('/', function (req, res) {
+    res.send(
+      "hola"
+    );
+  });
+
+app.get('/updates', function (req, res) {
   res.send(
     prueba
   );
