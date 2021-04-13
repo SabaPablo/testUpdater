@@ -8,7 +8,7 @@ app.get('/', function (req, res) {
     );
   });
 
-app.get('/updates', function (req, res) {
+app.get('/updates/au.json', function (req, res) {
   res.send(
     prueba
   );
