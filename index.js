@@ -13,6 +13,6 @@ app.get('/updates', function (req, res) {
     prueba
   );
 });
-app.listen(3000, () => {
- console.log("El servidor está inicializado en el puerto 3000");
+app.listen(process.env.PORT || 3000, () => {
+ console.log("El servidor está inicializado en el puerto ${process.env.PORT ||3000}");
 });
