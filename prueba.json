@@ -3,11 +3,11 @@
     "message": "Estimado Cliente Friendly, Estamos realizando actualizaciones en su FlowBox. por favor no apague su equipo.",
     "apps": [
         {
-            "name": "FlowApp",
-            "package": "ar.com.flow.androidtv_stb",
-            "version": "2.5.0-10202_733e9f72b",
+            "name": "sword-of-xolan",
+            "package": "ar.com.flow.xolan",
+            "version": "3.5.0-10202_733e9f72b",
             "build": 10315202,
-            "url": "https://atv-json-server.flow.com.ar/apks/2.5_Managed_Prod.apk",
+            "url": "https://apkins.aptoide.com/sword-of-xolan.apk?uid=49930007&store=aptoide-web&ver=9.17.3.1&entry_point=appstore_appview_header_desktop&utm_source=direct&utm_medium=none&utm_campaign=none&utm_content=com.Alper.SwordOfXolan&t_site_version=WAS+2.0&t_user_agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+10_3_1+like+Mac+OS+X%29+AppleWebKit%2F603.1.30+%28KHTML%2C+like+Gecko%29+Version%2F10.0+Mobile%2F14E304+Safari%2F602.1&t_app_url=https%3A%2F%2Fes.aptoide.com%2Fdownload%3Fapp_id%3D49930007%26store_name%3Daptoide-web%26entry_point%3Dappstore_appview_header_desktop&t_app_package=com.Alper.SwordOfXolan&t_site_session=none",
             "MD5": "74ac3dfe3b9848e1ad40a8a4dc2c371e",
             "SHA256": "c6a38db2549fb0417356cb378e426fe6feed2ced5b8554f64b4fca482ae12511",
             "silent": true
