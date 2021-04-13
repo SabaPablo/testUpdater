@@ -1,0 +1,16 @@
+{
+    "lastUpdate": "2020-04-23T11:00:00",
+    "message": "Estimado Cliente Friendly, Estamos realizando actualizaciones en su FlowBox. por favor no apague su equipo.",
+    "apps": [
+        {
+            "name": "FlowApp",
+            "package": "ar.com.flow.androidtv_stb",
+            "version": "2.5.0-10202_733e9f72b",
+            "build": 10315202,
+            "url": "https://atv-json-server.flow.com.ar/apks/2.5_Managed_Prod.apk",
+            "MD5": "74ac3dfe3b9848e1ad40a8a4dc2c371e",
+            "SHA256": "c6a38db2549fb0417356cb378e426fe6feed2ced5b8554f64b4fca482ae12511",
+            "silent": true
+        }
+    ]
+    }
